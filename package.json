@@ -2,14 +2,13 @@
   "name": "select-icons",
   "version": "0.0.1",
   "scripts": {
-    "build": "weweb build",
+    "build": "weweb build name=\"select-icons\" type=\"wwobject\"",
     "serve": "weweb serve"
   },
   "devDependencies": {
     "@weweb/cli": "latest"
   },
   "dependencies": {
-    "@phosphor-icons/vue": "^2.2.1",
-    "lucide-vue-next": "^0.544.0"
+    "@phosphor-icons/vue": "^2.2.1"
   }
 }
