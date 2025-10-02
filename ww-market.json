@@ -1,0 +1,10 @@
+{
+  "id": "select-icons",
+  "name": "Icon Selector",
+  "description": "Customizable icon selector with Phosphor icons library and macOS-style picker",
+  "version": "0.0.1",
+  "author": "Stanislas Korner",
+  "repository": "https://github.com/stanislasKorner/select-icon",
+  "license": "MIT",
+  "tags": ["icon", "selector", "phosphor", "picker"]
+}
