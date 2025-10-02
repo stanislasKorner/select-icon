@@ -3,9 +3,7 @@ export default {
     label: {
       en: "Icon Selector",
     },
-    bubble: {
-      resizable: false,
-    },
+    icon: "star",
   },
   properties: {
     selectedIcon: {

@@ -2,7 +2,7 @@
   "name": "select-icons",
   "version": "0.0.1",
   "scripts": {
-    "build": "weweb build name=\"select-icons\" type=\"wwobject\"",
+    "build": "weweb build",
     "serve": "weweb serve"
   },
   "devDependencies": {
